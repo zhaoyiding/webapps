@@ -1,0 +1,8 @@
+demo\serviceImpl\BookServiceImpl.class
+demo\util\Page.class
+demo\validator\BookValidator.class
+demo\mapper\BookMapper.class
+demo\service\BookService.class
+demo\domain\Book.class
+demo\util\PageUtil.class
+demo\controller\BookController.class
