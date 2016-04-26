@@ -1,0 +1,5 @@
+demo\serviceImpl\UserServiceImpl.class
+demo\domain\User.class
+demo\mapper\UserMapper.class
+demo\service\UserService.class
+demo\controller\UserController.class
